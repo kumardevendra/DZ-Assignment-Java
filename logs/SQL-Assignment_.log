@@ -1,0 +1,45 @@
+2019-12-20 16:01:30 INFO  SQL_Assignment:39 - 3
+2019-12-20 16:02:32 INFO  SQL_Assignment:39 - 3
+2019-12-20 16:02:32 INFO  SQL_Assignment:63 - Fri Dec 20 16:02:32 IST 2019 Start: getting the arguments
+2019-12-20 16:02:32 INFO  SQL_Assignment:67 - Fri Dec 20 16:02:32 IST 2019 End: getting the arguments 
+2019-12-20 16:02:32 INFO  SQL_Assignment:69 - Table: <dz>
+2019-12-20 16:02:32 INFO  SQL_Assignment:70 - Database : <employee>
+2019-12-20 16:02:32 INFO  SQL_Assignment:71 - Out Put File Path : <C:\Users\kumadeve\IdeaProjects\Dataeaze-Assignment-SQL\output\data.tsv>
+2019-12-20 16:02:32 INFO  SQL_Assignment:73 - Fri Dec 20 16:02:32 IST 2019 Getting App Utilities
+2019-12-20 16:02:32 INFO  SQL_Assignment:76 - Fri Dec 20 16:02:32 IST 2019 Establishing the connection with the Database
+2019-12-20 16:02:32 INFO  SQL_Assignment:26 - Fri Dec 20 16:02:32 IST 2019Getting the Driver Class
+2019-12-20 16:02:32 INFO  SQL_Assignment:29 - Fri Dec 20 16:02:32 IST 2019Getting the properties
+2019-12-20 16:02:32 INFO  SQL_Assignment:52 - Fri Dec 20 16:02:32 IST 2019 Inside Properties.
+2019-12-20 16:02:32 INFO  SQL_Assignment:57 - Fri Dec 20 16:02:32 IST 2019 Properties file loaded.
+2019-12-20 16:02:32 INFO  SQL_Assignment:31 - Fri Dec 20 16:02:32 IST 2019Properties : <java.util.Hashtable$Enumerator@76fb509a>
+2019-12-20 16:02:35 INFO  SQL_Assignment:35 - Fri Dec 20 16:02:35 IST 2019Connetion established
+2019-12-20 16:02:35 INFO  SQL_Assignment:83 - Fri Dec 20 16:02:35 IST 2019 Creating output file.
+2019-12-20 16:02:35 INFO  SQL_Assignment:85 - Fri Dec 20 16:02:35 IST 2019 Outputh file created <C:\Users\kumadeve\IdeaProjects\Dataeaze-Assignment-SQL\output\data.tsv>
+2019-12-20 16:02:35 INFO  SQL_Assignment:95 - Fri Dec 20 16:02:35 IST 2019 CSV writer properties < com.opencsv.CSVWriter@3dd4520b >
+2019-12-20 16:02:35 INFO  SQL_Assignment:98 - Fri Dec 20 16:02:35 IST 2019 Creating statement
+2019-12-20 16:02:35 INFO  SQL_Assignment:101 - Fri Dec 20 16:02:35 IST 2019Query : <select * from employee.dz>
+2019-12-20 16:02:35 ERROR SQL_Assignment:115 - SQL Exception : Unknown database 'employee'
+2019-12-20 16:04:09 INFO  SQL_Assignment:39 - 3
+2019-12-20 16:04:09 INFO  SQL_Assignment:63 - Fri Dec 20 16:04:09 IST 2019 Start: getting the arguments
+2019-12-20 16:04:09 INFO  SQL_Assignment:67 - Fri Dec 20 16:04:09 IST 2019 End: getting the arguments 
+2019-12-20 16:04:09 INFO  SQL_Assignment:69 - Table: <employee>
+2019-12-20 16:04:09 INFO  SQL_Assignment:70 - Database : <dz>
+2019-12-20 16:04:09 INFO  SQL_Assignment:71 - Out Put File Path : <C:\Users\kumadeve\IdeaProjects\Dataeaze-Assignment-SQL\output\data.tsv>
+2019-12-20 16:04:09 INFO  SQL_Assignment:73 - Fri Dec 20 16:04:09 IST 2019 Getting App Utilities
+2019-12-20 16:04:09 INFO  SQL_Assignment:76 - Fri Dec 20 16:04:09 IST 2019 Establishing the connection with the Database
+2019-12-20 16:04:09 INFO  SQL_Assignment:26 - Fri Dec 20 16:04:09 IST 2019Getting the Driver Class
+2019-12-20 16:04:09 INFO  SQL_Assignment:29 - Fri Dec 20 16:04:09 IST 2019Getting the properties
+2019-12-20 16:04:09 INFO  SQL_Assignment:52 - Fri Dec 20 16:04:09 IST 2019 Inside Properties.
+2019-12-20 16:04:09 INFO  SQL_Assignment:57 - Fri Dec 20 16:04:09 IST 2019 Properties file loaded.
+2019-12-20 16:04:09 INFO  SQL_Assignment:31 - Fri Dec 20 16:04:09 IST 2019Properties : <java.util.Hashtable$Enumerator@76fb509a>
+2019-12-20 16:04:12 INFO  SQL_Assignment:35 - Fri Dec 20 16:04:12 IST 2019Connetion established
+2019-12-20 16:04:12 INFO  SQL_Assignment:83 - Fri Dec 20 16:04:12 IST 2019 Creating output file.
+2019-12-20 16:04:12 INFO  SQL_Assignment:85 - Fri Dec 20 16:04:12 IST 2019 Outputh file created <C:\Users\kumadeve\IdeaProjects\Dataeaze-Assignment-SQL\output\data.tsv>
+2019-12-20 16:04:12 INFO  SQL_Assignment:95 - Fri Dec 20 16:04:12 IST 2019 CSV writer properties < com.opencsv.CSVWriter@3dd4520b >
+2019-12-20 16:04:12 INFO  SQL_Assignment:98 - Fri Dec 20 16:04:12 IST 2019 Creating statement
+2019-12-20 16:04:12 INFO  SQL_Assignment:101 - Fri Dec 20 16:04:12 IST 2019Query : <select * from dz.employee>
+2019-12-20 16:04:12 INFO  SQL_Assignment:106 - Fri Dec 20 16:04:12 IST 2019 Inserting Data : <1,Alex
+2019-12-20 16:04:12 INFO  SQL_Assignment:106 - Fri Dec 20 16:04:12 IST 2019 Inserting Data : <2,John
+2019-12-20 16:04:12 INFO  SQL_Assignment:106 - Fri Dec 20 16:04:12 IST 2019 Inserting Data : <3,Drew
+2019-12-20 16:04:12 INFO  SQL_Assignment:110 - Fri Dec 20 16:04:12 IST 2019 Closing the out put file <C:\Users\kumadeve\IdeaProjects\Dataeaze-Assignment-SQL\output\data.tsv>
+2019-12-20 16:04:12 INFO  SQL_Assignment:112 - Fri Dec 20 16:04:12 IST 2019 Closing the connection

@@ -1,0 +1,20 @@
+INFO - 3
+INFO - Fri Dec 20 16:02:32 IST 2019 Start: getting the arguments
+INFO - Fri Dec 20 16:02:32 IST 2019 End: getting the arguments 
+INFO - Table: <dz>
+INFO - Database : <employee>
+INFO - Out Put File Path : <C:\Users\kumadeve\IdeaProjects\Dataeaze-Assignment-SQL\output\data.tsv>
+INFO - Fri Dec 20 16:02:32 IST 2019 Getting App Utilities
+INFO - Fri Dec 20 16:02:32 IST 2019 Establishing the connection with the Database
+INFO - Fri Dec 20 16:02:32 IST 2019Getting the Driver Class
+INFO - Fri Dec 20 16:02:32 IST 2019Getting the properties
+INFO - Fri Dec 20 16:02:32 IST 2019 Inside Properties.
+INFO - Fri Dec 20 16:02:32 IST 2019 Properties file loaded.
+INFO - Fri Dec 20 16:02:32 IST 2019Properties : <java.util.Hashtable$Enumerator@76fb509a>
+INFO - Fri Dec 20 16:02:35 IST 2019Connetion established
+INFO - Fri Dec 20 16:02:35 IST 2019 Creating output file.
+INFO - Fri Dec 20 16:02:35 IST 2019 Outputh file created <C:\Users\kumadeve\IdeaProjects\Dataeaze-Assignment-SQL\output\data.tsv>
+INFO - Fri Dec 20 16:02:35 IST 2019 CSV writer properties < com.opencsv.CSVWriter@3dd4520b >
+INFO - Fri Dec 20 16:02:35 IST 2019 Creating statement
+INFO - Fri Dec 20 16:02:35 IST 2019Query : <select * from employee.dz>
+ERROR - SQL Exception : Unknown database 'employee'
